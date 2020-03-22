@@ -1,0 +1,87 @@
+#US{
+    margin-left: 200px;
+}
+.photos_show{
+    width: 360px;
+    height: 485px;
+}
+.photos_show img{
+    margin-left: 205px;
+    border: 10px solid black;
+}
+.button_menu{
+    width: 180px;
+    height: 15px;
+    margin-top: -40px;
+    margin-left: 370px;
+}
+.button_menu input{
+    border-style: none;
+    background-color: black;
+    opacity: 0.8;
+    color: white;
+    margin-left: 5px;
+    font-family: 微软雅黑;
+}
+.events{
+    width:600px;
+    height: 485px;
+    float: right;
+    margin-top: -508px;
+    margin-right: 45px;
+    position: relative;
+}
+.events #show_today{
+    font-size: 72px;
+    color: #cc0000;
+    font-family: "MS PGothic";
+}
+.events #show_today #gray{
+    color: #d9d9d9;
+    float: right;
+    margin-right: 50px;
+}
+.link p{
+    float: left;
+    padding-right: 5px;
+}
+.link a:link{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.link a:visited{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.content{
+    width:600px;
+    padding-top: 10px;
+}
+.content p{
+    font-size: 12px;
+    color: gray;
+    padding-top: 10px;
+}
+.Title a:link{
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+}
+.Title a:hover{
+    font-size: 22px;
+    color: black;
+    text-decoration: underline;
+}
+.Title a:visited{
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+ }
+.bg{
+    background-image: url("../images/backg.png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    height: 750px;
+}
